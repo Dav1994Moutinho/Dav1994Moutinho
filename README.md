@@ -16,10 +16,10 @@ Olá! Sou um estudante de **Engenharia da Computação**, apaixonado por tecnolo
 
 **Linguagens de Programação:** 
 
-![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)  
-![Python](https://img.shields.io/badge/-Python-yellowgreen?logo=python&logoColor=white)  
+![HTML](https://img.shields.io/badge/-HTML-black?logo=html5&logoColor=white&style=flat-square&bgColor=black&borderColor=FF4500)  
+![CSS](https://img.shields.io/badge/-CSS-black?logo=css3&logoColor=white&style=flat-square&bgColor=black&borderColor=FF4500)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&logoColor=white&style=flat-square&bgColor=black&borderColor=FF4500)  
+![Python](https://img.shields.io/badge/-Python-black?logo=python&logoColor=white&style=flat-square&bgColor=black&borderColor=FF4500)  
 
 **Interesses em Desenvolvimento:**  
 - 🖥️ **Desenvolvimento Web e Full Stack**  
@@ -29,19 +29,9 @@ Olá! Sou um estudante de **Engenharia da Computação**, apaixonado por tecnolo
 
 ---
 
-## 📈 **Estatísticas do GitHub**  
+##
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Dav1994Moutinho&show_icons=true&theme=radical)  
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Dav1994Moutinho&layout=compact&theme=radical)  
 
----
 
-## 📫 **Vamos nos conectar?**  
-- 💼 [LinkedIn](https://linkedin.com/in/david-moutinho-57253b137)
-- ✉️ [Email](mailto:davidmoutinho1994@gmail.com): davidmoutinho1994@gmail.com
 
----
 
-> *"Hackeando o futuro com ética, inovação e paixão pela tecnologia."*  
-
----
