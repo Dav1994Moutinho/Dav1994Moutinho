@@ -19,7 +19,7 @@ Olá! Sou um estudante de **Engenharia da Computação**, apaixonado por tecnolo
 ![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white)  
 ![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)  
-
+![Python](https://img.shields.io/badge/-Python-yellowgreen?logo=python&logoColor=white)  
 
 **Interesses em Desenvolvimento:**  
 - 🖥️ **Desenvolvimento Web e Full Stack**  
@@ -38,7 +38,7 @@ Olá! Sou um estudante de **Engenharia da Computação**, apaixonado por tecnolo
 
 ## 📫 **Vamos nos conectar?**  
 - 💼 [LinkedIn](https://linkedin.com/in/david-moutinho-57253b137)
-- ✉️ [Email](davidmoutinho1994@gmail.com)**: davidmoutinho1994@gmail.com**
+- ✉️ [Email](mailto:davidmoutinho1994@gmail.com): davidmoutinho1994@gmail.com
 
 ---
 
