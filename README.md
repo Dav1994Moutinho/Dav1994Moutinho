@@ -6,17 +6,17 @@ Estudante de <strong>Engenharia da Computação</strong> com forte interesse em 
 
 ---
 
-## 🧠 Sobre Mim
+## Sobre Mim
 
-- 🎓 Foco em <strong>HTML, CSS, JavaScript, Java, C/C++ e Python</strong>  
-- 🔐 Entusiasta de <strong>Cibersegurança (White Hat)</strong> — proteger sistemas com ética, estratégia e inteligência  
-- ☁️ Explorando <strong>Computação em Nuvem, IA e Machine Learning</strong>  
-- 🧩 Analítico, autodidata e orientado a boas práticas e desempenho  
-- ⚙️ Valorizo <em>código limpo</em>, <em>design robusto</em> e <em>arquiteturas escaláveis</em>  
+-  Foco em <strong>HTML, CSS, JavaScript, Java, C/C++ e Python</strong>  
+-  Entusiasta de <strong>Cibersegurança (White Hat)</strong> — proteger sistemas com ética, estratégia e inteligência  
+-  Explorando <strong>Computação em Nuvem, IA e Machine Learning</strong>  
+-  Analítico, autodidata e orientado a boas práticas e desempenho  
+-  Valorizo <em>código limpo</em>, <em>design robusto</em> e <em>arquiteturas escaláveis</em>  
 
 ---
 
-## ⚙️ Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 ### Linguagens e Tecnologias em uso:
 
@@ -30,16 +30,16 @@ Estudante de <strong>Engenharia da Computação</strong> com forte interesse em 
 
 ---
 
-## 🔍 Interesses Atuais
+## Interesses Atuais
 
-- 🧬 Desenvolvimento Web & Full Stack  
-- 🔐 Segurança da Informação & Pentest Ético  
-- ☁️ Infraestrutura em Nuvem & DevSecOps  
-- 🤖 Sistemas Inteligentes, IA e Machine Learning  
+- Desenvolvimento Web & Full Stack  
+- Segurança da Informação & Pentest Ético  
+- Infraestrutura em Nuvem & DevSecOps  
+- Sistemas Inteligentes, IA e Machine Learning  
 
 ---
 
-## 📊 GitHub Insights
+## GitHub Insights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dav1994Moutinho&show_icons=true&theme=dark&hide_border=false&count_private=true" height="180" />
@@ -48,7 +48,7 @@ Estudante de <strong>Engenharia da Computação</strong> com forte interesse em 
 
 ---
 
-## 🔗 Contato
+## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-moutinho-57253b137)
 [![Email](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidmoutinho1994@gmail.com)
