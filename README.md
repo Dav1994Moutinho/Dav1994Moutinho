@@ -1,4 +1,4 @@
-<h1 align="center">🛡️ David Moutinho | GitHub Portfolio</h1>
+<h1 align="center">🛡️ David Moutinho </h1>
 
 <p align="center">
 Estudante de <strong>Engenharia da Computação</strong> com forte interesse em <em>cibersegurança, sistemas inteligentes</em> e <em>infraestrutura tecnológica</em>. Aqui compartilho soluções, projetos e aprendizados que refletem minha busca contínua por excelência técnica, segurança e inovação. 
