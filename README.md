@@ -8,7 +8,7 @@ Estudante de <strong>Engenharia da Computação</strong> com forte interesse em 
 
 ## Sobre Mim
 
--  Foco em <strong>HTML, CSS, JavaScript, Java, C/C++ e Python</strong>  
+-  Foco em <strong> C/C++ e Python</strong>  
 -  Entusiasta de <strong>Cibersegurança (White Hat)</strong> — proteger sistemas com ética, estratégia e inteligência  
 -  Explorando <strong>Computação em Nuvem, IA e Machine Learning</strong>  
 -  Analítico, autodidata e orientado a boas práticas e desempenho  
@@ -20,19 +20,14 @@ Estudante de <strong>Engenharia da Computação</strong> com forte interesse em 
 
 ### Linguagens e Tecnologias em uso:
 
-![HTML](https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=java&logoColor=white)
 
 ---
 
 ## Interesses Atuais
 
-- Desenvolvimento Web & Full Stack  
 - Segurança da Informação & Pentest Ético  
 - Infraestrutura em Nuvem & DevSecOps  
 - Sistemas Inteligentes, IA e Machine Learning  
