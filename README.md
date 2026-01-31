@@ -4,7 +4,6 @@
 Estudante de <strong>Engenharia da Computação</strong> com forte interesse em <em>cibersegurança, sistemas inteligentes</em> e <em>infraestrutura tecnológica</em>. Aqui compartilho soluções, projetos e aprendizados que refletem minha busca contínua por excelência técnica, segurança e inovação. 
 </p>
 
----
 
 ## Sobre Mim
 
@@ -14,7 +13,6 @@ Estudante de <strong>Engenharia da Computação</strong> com forte interesse em 
 -  Analítico, autodidata e orientado a boas práticas e desempenho  
 -  Valorizo <em>código limpo</em>, <em>design robusto</em> e <em>arquiteturas escaláveis</em>  
 
----
 
 ## Tecnologias & Ferramentas
 
@@ -24,7 +22,6 @@ Estudante de <strong>Engenharia da Computação</strong> com forte interesse em 
 ![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=white)
 
----
 
 ## Interesses Atuais
 
@@ -32,7 +29,6 @@ Estudante de <strong>Engenharia da Computação</strong> com forte interesse em 
 - Infraestrutura em Nuvem & DevSecOps  
 - Sistemas Inteligentes, IA e Machine Learning  
 
----
 
 ## Contato
 
