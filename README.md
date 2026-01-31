@@ -34,15 +34,6 @@ Estudante de <strong>Engenharia da Computação</strong> com forte interesse em 
 
 ---
 
-## GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dav1994Moutinho&show_icons=true&theme=dark&hide_border=false&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dav1994Moutinho&layout=compact&theme=dark&hide_border=false" height="180" />
-</p>
-
----
-
 ## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-moutinho-57253b137)
